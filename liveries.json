@@ -1,0 +1,14 @@
+{
+  "name": "Oceania Airlines",
+  "icao": "OCA",
+  "country": "New Zealand",
+  "hub": "NZAA",
+  "liveries": [
+    {
+      "aircraft": "B787",
+      "name": "Oceania Airlines B787-9",
+      "texture": "textures/b787.png",
+      "thumbnail": "thumbnails/b787.png"
+    }
+  ]
+}
