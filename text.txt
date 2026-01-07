@@ -1,0 +1,6 @@
+[
+  {
+    "aircraft": "B787",
+    "texture": "textures/b787.png"
+  }
+]
